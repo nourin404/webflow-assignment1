@@ -120,3 +120,52 @@ main section {
     padding: 10px 20px;
     border-radius: 6px;
 }
+.had-ing {
+    color: #252432;
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+}
+.heading {
+    background-color: #d7d6e7;
+    max-width: 1140px;
+    margin: 0 auto;
+    border-radius: 24px;
+}
+.item-title {
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+    padding-top: -135px;
+}
+.item-description {
+    font-size: 20px;
+    opacity: 50%;
+    padding-top: 1px;
+}
+.about-description {
+    display: flex;
+    justify-content: space-between;
+}
+/* main styles */
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* skills section styles */
+.skills-container {
+    display: flex;
+    gap: 24px;
+}
+.skill {
+    padding: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.06);
+}
+.skill-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+.pic {
+    justify-content: space-between;
+}
